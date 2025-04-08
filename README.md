@@ -5,6 +5,6 @@ I am a software engineer specializing more in Backend development on the Java pl
 **My Education:** Bachelor's degree in 09.03.03 Applied information systems.  
 
 **Tech stack:**
-![Java](assets/Java-Light.svg) ![Spring](assets/Spring-Light.svg)
+<img src="assets/Java-Light.svg" alt="java" width="500" height="300">
 
 
